@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pandeymohit786-ai.github.io/chatshelf-site/sitemap.xml
